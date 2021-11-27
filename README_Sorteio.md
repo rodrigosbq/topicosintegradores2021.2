@@ -15,7 +15,7 @@ Verificamos que esta ação tão comum pode agregar outros valores para os reali
 - Botão para zerar sorteio caso a intenção seja que os sorteados possam concorrer novamente a premios.
 
   Descrição
-A tela inicial é aberta para acesso de qualquer com o intuito de que o mesmo possa realizar sua incrição preenchendo os campos "Nome", "Email" e "Key"
+A tela inicial é aberta para acesso de qualquer pessoa com o intuito de que o mesmo possa realizar sua incrição preenchendo os campos "Nome", "Email" e "Key"
 A key direcionará o participante para um sorteio específico e caso o email já exista o participante não poderá se cadastrar novamente.
 Tanto o email quanto a key deverão ser válidos para concretização do cadastro.
 Link: https://personal-o0gj9g46.outsystemscloud.com/Sorteio/
